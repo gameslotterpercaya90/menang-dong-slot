@@ -1,0 +1,18 @@
+{
+  "name": "menang-dong-slot",
+  "main": "./lib/menang-dong-slot",
+  "version": "1.0.0",
+  "description": "Ini Daftar Unduh Apk Menang Dong Slot Apk Android",
+  "keywords": ["agen slot online","slot habanero","slot online cq9","situs slot online terpercaya","toto slot","slot online jackpot tertinggi"],
+
+  "activationCommands": {
+    "atom-workspace": "menang-dong-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya90/menang-dong-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle menang-dong-slot",
+        "command": "menang-dong-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "menang-dong-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "menang-dong-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
